@@ -1,10 +1,7 @@
 # github Link 
 https://github.com/hafisaq/CW3final
 
-## Project setup
-```
-npm install
-```
+
 
 ### Compiles and hot-reloads for development
 ```
